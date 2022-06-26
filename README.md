@@ -3,10 +3,9 @@ Headphone Equalization Filter
 Compensation filters are linear-pahase FIR filters of length 2048 samples at a sampling rate 44.1 kHz calculated with high-shelf regularisation in the frequency domain.
 
 ### TODOs
-- [] Visualize sweep
-- [] Visualize headphone recordings (as facet)
-- [] Visualize impulse responses
-- [] Read code for compensation filters
+- [x] Visualize headphone recordings (as facet)
+- [x] Visualize impulse responses
+- [x] Read code for compensation filters
 - [] Implement filter
 - [] Visualize filtered recordings
 - [] Do hearing test
