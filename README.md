@@ -5,20 +5,6 @@ Compensation filters are linear-pahase FIR filters of length 2048 samples at a s
 
 ### TODOs
 
-- [x] Visualize headphone recordings (as facet)
-- [x] Visualize impulse responses
-- [x] Read code for compensation filters
-- [] Implement filter
-- [] Apply filter for each heaphone
-- [] Visualize filtered recordings
-- [] Do hearing test
-- [] Compare results
-- [] Outcomes
-- [] Start with report
-- [] Prepare slides
-
-### Steps (for each Headphone and L|R Channels)
-
 - [x] Transfer IRs to freq domain
 - [x] Take the complex mean of each (L|R)
 - [x] Design bandpass filter (D)
@@ -26,6 +12,13 @@ Compensation filters are linear-pahase FIR filters of length 2048 samples at a s
 - [x] Calculate Inverse Filter (with the formula) for each headphone (L|R)
 - [x] Transform back to time domain
 - [] Try out with DAW | convolve directly in Jupyter notebook
+- [] Apply filter for each heaphone
+- [] Visualize filtered recordings
+- [] Do hearing test
+- [] Compare results
+- [] Outcomes
+- [] Start with report
+- [] Prepare slides
 
 ### MatLab Filter Pseduo code
 
