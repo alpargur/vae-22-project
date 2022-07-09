@@ -11,7 +11,10 @@ Compensation filters are linear-pahase FIR filters of length 2048 samples at a s
 - [x] Design the regularisation filter (B)
 - [x] Calculate Inverse Filter (with the formula) for each headphone (L|R)
 - [x] Transform back to time domain
-- [] Try out with DAW | convolve directly in Jupyter notebook
+- [x] Try out with DAW | convolve directly in Jupyter notebook
+- [x] Cut delay part, square fade off ?
+- [x] Decrease sound of filter
+- [x] Listen both filters and compare them
 - [] Apply filter for each heaphone
 - [] Visualize filtered recordings
 - [] Do hearing test
