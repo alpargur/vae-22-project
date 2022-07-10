@@ -15,9 +15,9 @@ Compensation filters are linear-pahase FIR filters of length 2048 samples at a s
 - [x] Cut delay part, square fade off ?
 - [x] Decrease sound of filter
 - [x] Listen both filters and compare them
-- [] Apply filter for each heaphone
-- [] Visualize filtered recordings
-- [] Do hearing test
+- [x] Apply filter for each heaphone
+- [x] Visualize filtered recordings
+- [x] Do hearing test
 - [] Compare results
 - [] Outcomes
 - [] Start with report
